@@ -1,0 +1,5 @@
+{
+  "name": "CodeMotion Tutor",
+  "description": "An interactive coding tutor using SVG.js motion graphics to explain programming concepts (Control Flow, Loops, Data Structures) with Gemini AI assistance.",
+  "requestFramePermissions": []
+}
